@@ -104,14 +104,6 @@ Hello! I'm **NUMAN NUR HELALY**, a Computer Science and Engineering (CSE) studen
 
 ---
 
-## 📂 My Projects
-
-🚧 I'm currently learning and building my Software Engineering and Software Testing portfolio.
-
-Stay tuned for upcoming projects!
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
