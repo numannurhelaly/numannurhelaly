@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm NUMAN NUR HELALY
+# Hi, I'm NUMAN NUR HELALY
 
 <h3 align="center">CSE Student | Aspiring Software Engineer</h3>
 
